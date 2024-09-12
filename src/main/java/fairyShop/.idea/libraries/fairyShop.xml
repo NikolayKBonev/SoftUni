@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fairyShop">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fairyShop.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

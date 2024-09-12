@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56e841f6-9633-4337-9811-43b8b761a7fa" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2jTDDVQTCVakjN01BeJzDrHF1qN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Application.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.busyWaiters.Main.executor": "Run",
+    "Application.christmaspastryshop.Main.executor": "Run",
+    "Application.christmaspastryshopTest.Main.executor": "Run",
+    "Application.climbers.Main.executor": "Run",
+    "Application.dolphinarium.Main.executor": "Run",
+    "Application.forgottenBattleships.Main.executor": "Run",
+    "Application.furnitureFactory.Main.executor": "Run",
+    "Application.goldDigger.Main.executor": "Run",
+    "Application.handball.Main.executor": "Run",
+    "Application.magicGame.Main.executor": "Run",
+    "Application.toystore.Main.executor": "Run",
+    "Application.zoo.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Programming JAVA/Programming OOP with Java - Юни 2024/RetakeExam/BattleShip",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "database.query.execution",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql_aurora_aws"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Programming JAVA\Programming OOP with Java - Юни 2024\ExamPreparations\ДругиЗадачи\ExamPreparation\src\main\java" />
+      <recent name="D:\Programming JAVA\Programming OOP with Java - Юни 2024\ExamPreparations\ДругиЗадачи\ExamPreparation\src\main\java\fairyShop" />
+      <recent name="D:\Programming JAVA\Programming OOP with Java - Юни 2024\ExamPreparations\ДругиЗадачи\ExamPreparation\src\main\java\goldDigger" />
+      <recent name="D:\Programming JAVA\Programming OOP with Java - Юни 2024\ExamPreparations\ДругиЗадачи\ExamPreparation\src\main\java\magicGame" />
+      <recent name="D:\Programming JAVA\Programming OOP with Java - Юни 2024\ExamPreparations\ДругиЗадачи\ExamPreparation\src\main\java\magicgame" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.forgottenBattleships.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fairyShop.Main" />
+      <module name="ExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="fairyShop.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="forgottenBattleships.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="forgottenBattleships.Main" />
+      <module name="ExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="forgottenBattleships.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="furnitureFactory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="furnitureFactory.Main" />
+      <module name="ExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="furnitureFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="goldDigger.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="goldDigger.Main" />
+      <module name="ExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="goldDigger.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="handball.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="handball.Main" />
+      <module name="ExamPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="handball.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.forgottenBattleships.Main" />
+        <item itemvalue="Application.furnitureFactory.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.goldDigger.Main" />
+        <item itemvalue="Application.handball.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56e841f6-9633-4337-9811-43b8b761a7fa" name="Changes" comment="" />
+      <created>1721402053297</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721402053297</updated>
+      <workItem from="1721402054302" duration="7540000" />
+      <workItem from="1721557121246" duration="3109000" />
+      <workItem from="1721560252021" duration="2063000" />
+      <workItem from="1721667362299" duration="64000" />
+      <workItem from="1721667430544" duration="101000" />
+      <workItem from="1721758755636" duration="395000" />
+      <workItem from="1721924074280" duration="1246000" />
+      <workItem from="1721926305713" duration="1434000" />
+      <workItem from="1721933301372" duration="248000" />
+      <workItem from="1722007143283" duration="5728000" />
+      <workItem from="1722111515931" duration="13012000" />
+      <workItem from="1722261506931" duration="2095000" />
+      <workItem from="1722285433800" duration="1073000" />
+      <workItem from="1722425857651" duration="12555000" />
+      <workItem from="1722452336074" duration="5523000" />
+      <workItem from="1722461814395" duration="300000" />
+      <workItem from="1722462903880" duration="5000" />
+      <workItem from="1722532409937" duration="600000" />
+      <workItem from="1722612363831" duration="3718000" />
+      <workItem from="1722632547617" duration="1138000" />
+      <workItem from="1723219479967" duration="3765000" />
+      <workItem from="1723238830836" duration="3000" />
+      <workItem from="1723270532343" duration="34000" />
+      <workItem from="1723276269467" duration="1021000" />
+      <workItem from="1723278070106" duration="797000" />
+      <workItem from="1723364787068" duration="988000" />
+      <workItem from="1723615401089" duration="2094000" />
+      <workItem from="1723620610270" duration="6599000" />
+      <workItem from="1723628077181" duration="607000" />
+      <workItem from="1723628946830" duration="117000" />
+      <workItem from="1723630063697" duration="615000" />
+      <workItem from="1725988179357" duration="99000" />
+      <workItem from="1726151455519" duration="1181000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/magicGame/core/ControllerImpl.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
